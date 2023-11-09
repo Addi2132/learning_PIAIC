@@ -1,0 +1,1 @@
+console.log("Phillip C. McGraw once said, \"Life is a marathon, not a sprint.\"")
